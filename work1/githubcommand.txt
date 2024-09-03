@@ -9,3 +9,8 @@
 3. 리모트 삭제
     git remote rm 리모트이름
     git remote rm origin
+
+4. GitHub 업데이트
+    add 하고
+    commit 하고
+    git push -u origin main
