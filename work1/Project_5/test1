@@ -1,7 +1,0 @@
-for i in range(5):
-    print(1)
-    print(8)
-    print(9)
-
-    #4 번째 커밋을 위한 주석
-    #5번째 커밋을 위한 주석
