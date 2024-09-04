@@ -1,0 +1,36 @@
+1. remote 정보 확인
+    git remote
+    git remote -v
+
+2. remote 추가
+    git remote add 리모트이름 github리파지토리주소
+    git remote add origin https://github.com/Clotted0551/BSDA5.gi
+    
+3. 리모트 삭제
+    git remote rm 리모트이름
+    git remote rm origin
+
+4. GitHub 업데이트
+    add 하고
+    commit 하고
+    git push -u origin main
+    
+5. clone 하기
+    코드가 없는 상태에서 전체 코드를 다운로드 받을 경우
+
+6. pull
+    코드가 있는 상태에서 변경된 부분만 받을 경우
+---------------------------------------
+7. How to make Branch
+
+    -Make Branch
+
+    git branch -M (Branch Name)
+
+    -Branch switch
+
+    git switch (Branch Name)
+
+8. 브랜치 삭제 해볼거임
+
+    git branch -d ()
